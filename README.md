@@ -23,7 +23,7 @@
 <div> 
   <a href="dsc.bio/victordotjs" target="_blank"><img height="40" width="40" src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
   <a href="https://www.instagram.com/vvictor.ig/" target="_blank"><img margin="5" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"</a>
-    <a href="mailto:contato.vitiinho123antonio@gmail.com"><img  margin="5" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"</a>
+    <a href="mailto:contato.vitiinho123antonio@gmail.com"><img height="40" width="40" margin="5" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank"</a>
  
   ![Snake animation](https://github.com/victordotJS/victordotJS/blob/output/github-contribution-grid-snake.svg)
  
